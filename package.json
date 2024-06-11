@@ -1,0 +1,30 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "This is react practice",
+  "scripts": {
+    "test": "fest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshad-ahmad/namaste-react.git"
+  },
+  "keywords": [
+    "ahmad",
+    "reactjs"
+  ],
+  "author": "Irshad Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irshad-ahmad/namaste-react/issues"
+  },
+  "homepage": "https://github.com/irshad-ahmad/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
